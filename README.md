@@ -24,8 +24,8 @@ A través de herramientas estadísticas y de reducción de dimensionalidad, este
 
 ## Estructura del Repositorio
 
-* `TareaPráctica1.ipynb` (o `AIDS_Classification (3).ipynb`): Notebook principal que contiene todo el código ejecutable en Python para el procesamiento de datos, estadísticas descriptivas, análisis de correlación y visualizaciones multivariadas.
-* `AIDS_Classification (3).csv`: Conjunto de datos clínico original utilizado para la práctica.
+* `TareaPráctica1.ipynb` (o `AIDS_Classification.ipynb`): Notebook principal que contiene todo el código ejecutable en Python para el procesamiento de datos, estadísticas descriptivas, análisis de correlación y visualizaciones multivariadas.
+* `AIDS_Classification.csv`: Conjunto de datos clínico original utilizado para la práctica.
 * `Presentacion_Analisis_Exploratorio_AIDS.pptx.pdf`: Resumen visual y ejecutivo de los hallazgos principales de la práctica.
 * `README.md`: Documentación oficial del repositorio.
 
